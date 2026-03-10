@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program
 {
     static void TampilkanKelurahan()
@@ -26,10 +25,16 @@ class Program
             Console.WriteLine("{0,-15} {1}", data[i, 0], data[i, 1]);
         }
     }
-
     static void Main(string[] args)
     {
         TampilkanKelurahan();
-        Console.ReadLine();
+
+        Console.WriteLine("\nSimulasi Door Machine\n");
+
+        DoorMachine pintu = new DoorMachine();
+
+        pintu.BukaPintu();
+        pintu.KunciPintu();
+        pintu.BukaPintu();
     }
 }

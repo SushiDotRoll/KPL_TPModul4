@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8557032F-43D5-E4EB-B8EC-0210E3594C2F}|tpmodul4_103082400030\\tpmodul4_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul4_103082400030\\tpmodul4_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8557032F-43D5-E4EB-B8EC-0210E3594C2F}|tpmodul4_103082400030\\tpmodul4_103082400030.csproj|solutionrelative:tpmodul4_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8557032F-43D5-E4EB-B8EC-0210E3594C2F}|tpmodul4_103082400030\\tpmodul4_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul4_103082400030\\tpmodul4_103082400030\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8557032F-43D5-E4EB-B8EC-0210E3594C2F}|tpmodul4_103082400030\\tpmodul4_103082400030.csproj|solutionrelative:tpmodul4_103082400030\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +32,24 @@
         },
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul4_103082400030\\tpmodul4_103082400030\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4_103082400030\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul4_103082400030\\tpmodul4_103082400030\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul4_103082400030\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:22:40.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,7 +59,7 @@
               "RelativeDocumentMoniker": "tpmodul4_103082400030\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul4_103082400030\\tpmodul4_103082400030\\Program.cs*",
               "RelativeToolTip": "tpmodul4_103082400030\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T21:49:51.174Z",
               "EditorCaption": ""
